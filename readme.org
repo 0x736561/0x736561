@@ -1,7 +1,9 @@
 * Só mais um usuário de Emacs.
 ** Não sou alguém que é de fazer muitas coisas, por isso o perfil é bem vazio.
 
-** [[https://0x736561.github.io][Meu site]]
-** IRC: tukain (libera.chat)
-** Odysee: [[https://odysee.com/@0x736561:6][Sea]]
+** Links
+
+- [[https://0x736561.github.io][Meu site]]
+- Odysee: [[https://odysee.com/@0x736561:6][Sea]]
+- IRC: tukain (libera.chat)
 
