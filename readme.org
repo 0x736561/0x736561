@@ -1,6 +1,4 @@
 * Só mais um usuário de Emacs.
-** Não sou alguém que é de fazer muitas coisas, por isso o perfil é bem vazio.
-
 ** Links
 
 - [[https://0x736561.github.io][Meu site]]
