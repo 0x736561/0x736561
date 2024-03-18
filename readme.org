@@ -1,7 +1,0 @@
-* Só mais um usuário de Emacs.
-** Links
-
-- [[https://0x736561.github.io][Meu site]]
-- Odysee: [[https://odysee.com/@0x736561:6][Sea]]
-- IRC: tukain (libera.chat)
-
